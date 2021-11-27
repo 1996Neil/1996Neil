@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 😄很高兴你点开了我的主页😄
 
 - 我目前是一名纯纯的后端开发工程师
-- 目前还未就职
 - 热爱后端开发，欢迎交流
 - 正在好奇并努力地尝试各类项目
 - 你可以通过邮箱联系我：wangzhecoc@gmail.com
